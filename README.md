@@ -6,7 +6,8 @@ Name: Nilesh Kisan Chavan
 Date: 24 Aug 2025
 
 Objective
-Tested a sample web application using OWASP guidelines to identify common security flaws.
+Tested a sample web application using OWASP 
+guidelines to identify common security flaws.
 
 Vulnerabilities Tested
 SQL Injection – Bypassed login using crafted queries.
