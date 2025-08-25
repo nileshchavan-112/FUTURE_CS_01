@@ -28,4 +28,6 @@ csrf.png → CSRF request execution
 zap.png → ZAP scanning result
 
 Conclusion
-Successfully demonstrated SQLi, XSS, and CSRF vulnerabilities in WebGoat. OWASP ZAP provided deeper insights into weaknesses.
+
+Successfully demonstrated SQLi, XSS, and CSRF vulnerabilities in WebGoat. OWASP ZAP provided deeper insights into weaknes
+
